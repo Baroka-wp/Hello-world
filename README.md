@@ -6,14 +6,14 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- Linter
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author : IROTORI Baroka**
 
 - GitHub: [@githubhandle](https://github.com/Baroka-wp)
 - Twitter: [@twitterhandle](https://twitter.com/IrotoriB)
